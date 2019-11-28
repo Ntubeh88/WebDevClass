@@ -1,12 +1,22 @@
 p {
 background-color: aqua;
 }
-
+body
 {
-.asideparagrah
+font-family: cursive;
+border: blueviolet;
+border-style: double;
+padding: 100px;
+margin: 50px;
+border-left-width: 100px;
+border-left-style: dotted;
+
 
 }
 
-{
-
+h1 {
+    color: red;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
 }
