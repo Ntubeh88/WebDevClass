@@ -15,9 +15,16 @@ border-left-style: dotted;
 }
 
 h1 {
-    
+
     color: red;
     font-family: fantasy;
     font-size: 50px;
     text-align: center;
+}
+
+#GoToTop{
+    background-color: chartreuse;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
